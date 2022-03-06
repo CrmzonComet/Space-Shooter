@@ -71,7 +71,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 779440df732fa9c4b9d48762a6ca5f3b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.005
+  speed: 0.01
   type: shotgun
 --- !u!1 &2885635691913446559
 GameObject:
